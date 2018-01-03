@@ -1,0 +1,5 @@
+### Missed Win10 IP spy in WindowsSpyBlocker
+### Block IPs
+### 11/24/2017
+
+40.112.213.22
