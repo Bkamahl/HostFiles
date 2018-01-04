@@ -1,5 +1,5 @@
 # BabyBear's Host File
-# Last Updated 12/31/17
+# Last Updated 1/4/18
 
 # Whitelist
 127.0.0.1 android
@@ -25490,6 +25490,7 @@
 0.0.0.0 acxiom-online.com #Acxiom
 0.0.0.0 acxiomapac.com
 0.0.0.0 ad-android.51wnl.com
+0.0.0.0 ad-apac.doubleclick.net
 0.0.0.0 ad-api.cnblogs.com
 0.0.0.0 ad-beta.flipboard.com
 0.0.0.0 ad-cache.dopool.com
@@ -25500,6 +25501,7 @@
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 ad-dev.globalnoticias.pt
 0.0.0.0 ad-dev.globalnoticias.pt #Global Media Group
+0.0.0.0 ad-emea.doubleclick.net
 0.0.0.0 ad-g.doubleclick.net
 0.0.0.0 ad-images.suntimes.com
 0.0.0.0 ad-img.diyidan.net
@@ -25557,6 +25559,7 @@
 0.0.0.0 ad.adultcheck.com
 0.0.0.0 ad.adultpromotion.org
 0.0.0.0 ad.aduserver.com
+0.0.0.0 ad.ae.doubleclick.net
 0.0.0.0 ad.afftrck.com
 0.0.0.0 ad.aftenposten.no
 0.0.0.0 ad.aftonbladet.se
@@ -25577,11 +25580,14 @@
 0.0.0.0 ad.anuntis.com
 0.0.0.0 ad.api.moji.com
 0.0.0.0 ad.aquamediadirect.com
+0.0.0.0 ad.ar.doubleclick.net
 0.0.0.0 ad.arklm.com
 0.0.0.0 ad.ascii.jp
 0.0.0.0 ad.asntown.net
 0.0.0.0 ad.asv.de
+0.0.0.0 ad.at.doubleclick.net
 0.0.0.0 ad.atlas.cz
+0.0.0.0 ad.au.doubleclick.net
 0.0.0.0 ad.axill.com
 0.0.0.0 ad.axyzconductor.jp
 0.0.0.0 ad.backtalkmedia.com
@@ -25589,10 +25595,12 @@
 0.0.0.0 ad.batanga.com
 0.0.0.0 ad.bauerverlag.de
 0.0.0.0 ad.bayescom.com
+0.0.0.0 ad.be.doubleclick.net
 0.0.0.0 ad.beepworld.de
 0.0.0.0 ad.beihai365.com
 0.0.0.0 ad.beritasatumedia.com
 0.0.0.0 ad.bestsportstream.com
+0.0.0.0 ad.bg.doubleclick.net
 0.0.0.0 ad.bharatstudent.com
 0.0.0.0 ad.bilgin.pro
 0.0.0.0 ad.bizo.com
@@ -25605,11 +25613,13 @@
 0.0.0.0 ad.bol.bg
 0.0.0.0 ad.bondage.com
 0.0.0.0 ad.boreus.de
+0.0.0.0 ad.br.doubleclick.net
 0.0.0.0 ad.brainbuzz.com
 0.0.0.0 ad.brainer.jp
 0.0.0.0 ad.broadstreetads.com
 0.0.0.0 ad.burstdirectads.com
 0.0.0.0 ad.bwise.ch
+0.0.0.0 ad.ca.doubleclick.net
 0.0.0.0 ad.cacafly.com
 0.0.0.0 ad.caiyunapp.com
 0.0.0.0 ad.caos.it
@@ -25621,10 +25631,12 @@
 0.0.0.0 ad.cctv.com
 0.0.0.0 ad.centrum.cz
 0.0.0.0 ad.cgi.cz
+0.0.0.0 ad.ch.doubleclick.net
 0.0.0.0 ad.chip.de
 0.0.0.0 ad.choiceradio.com
 0.0.0.0 ad.chosunonline.com
 0.0.0.0 ad.citynews.it
+0.0.0.0 ad.cl.doubleclick.net
 0.0.0.0 ad.clickdistrict.com
 0.0.0.0 ad.clicknet.com.tr
 0.0.0.0 ad.clickotmedia.com
@@ -25632,6 +25644,7 @@
 0.0.0.0 ad.clok.creative.com
 0.0.0.0 ad.clovenetwork.com
 0.0.0.0 ad.cmfu.com
+0.0.0.0 ad.cn.doubleclick.net
 0.0.0.0 ad.coas2.co.kr
 0.0.0.0 ad.contentspecific.com
 0.0.0.0 ad.cooks.com
@@ -25647,6 +25660,7 @@
 0.0.0.0 ad.cyzo.com
 0.0.0.0 ad.damnpervert.com
 0.0.0.0 ad.db3nf.com
+0.0.0.0 ad.de.doubleclick.net
 0.0.0.0 ad.dedecms.com
 0.0.0.0 ad.depositfiles.com
 0.0.0.0 ad.designpark.de
@@ -25662,6 +25676,7 @@
 0.0.0.0 ad.disney.go.com
 0.0.0.0 ad.distrigame.com
 0.0.0.0 ad.diy.myrice.com
+0.0.0.0 ad.dk.doubleclick.net
 0.0.0.0 ad.dmm.com
 0.0.0.0 ad.dmm.de
 0.0.0.0 ad.dmpi.net
@@ -25702,6 +25717,7 @@
 0.0.0.0 ad.erohost.com
 0.0.0.0 ad.erotik-click.de
 0.0.0.0 ad.es.chilinext.com
+0.0.0.0 ad.es.doubleclick.net
 0.0.0.0 ad.espn.starwave.com
 0.0.0.0 ad.ettoday.net
 0.0.0.0 ad.eurosport.com
@@ -25715,6 +25731,7 @@
 0.0.0.0 ad.family.go.com
 0.0.0.0 ad.favod.net
 0.0.0.0 ad.fglighting.net
+0.0.0.0 ad.fi.doubleclick.net
 0.0.0.0 ad.filmweb.pl
 0.0.0.0 ad.finn.no
 0.0.0.0 ad.fireball.de
@@ -25724,6 +25741,7 @@
 0.0.0.0 ad.fnnews.com
 0.0.0.0 ad.fo.net
 0.0.0.0 ad.foxitreader.cn
+0.0.0.0 ad.fr.doubleclick.net
 0.0.0.0 ad.free6.com
 0.0.0.0 ad.freecity.de
 0.0.0.0 ad.freefind.com
@@ -25750,6 +25768,7 @@
 0.0.0.0 ad.go.com
 0.0.0.0 ad.goo.ne.jp
 0.0.0.0 ad.googleanalysis.mobi
+0.0.0.0 ad.gr.doubleclick.net
 0.0.0.0 ad.gra.pl
 0.0.0.0 ad.grafika.cz
 0.0.0.0 ad.greenmarquee.com
@@ -25772,6 +25791,7 @@
 0.0.0.0 ad.hiiir.com
 0.0.0.0 ad.hinet.net
 0.0.0.0 ad.hirekmedia.hu
+0.0.0.0 ad.hk.doubleclick.net
 0.0.0.0 ad.hodomobile.com
 0.0.0.0 ad.holaq.com
 0.0.0.0 ad.horvitznewspapers.net
@@ -25779,7 +25799,9 @@
 0.0.0.0 ad.hot-mob.com
 0.0.0.0 ad.house365.com
 0.0.0.0 ad.howstuffworks.com
+0.0.0.0 ad.hr.doubleclick.net
 0.0.0.0 ad.html.it
+0.0.0.0 ad.hu.doubleclick.net
 0.0.0.0 ad.huajiao.com
 0.0.0.0 ad.hyena.cz
 0.0.0.0 ad.i.cl
@@ -25787,6 +25809,7 @@
 0.0.0.0 ad.ibookstar.com
 0.0.0.0 ad.icasthq.com
 0.0.0.0 ad.idgtn.net
+0.0.0.0 ad.ie.doubleclick.net
 0.0.0.0 ad.ieurop.net
 0.0.0.0 ad.ifrance.com
 0.0.0.0 ad.iii.co.uk
@@ -25801,6 +25824,7 @@
 0.0.0.0 ad.imediaaudiences.com
 0.0.0.0 ad.img.yahoo.co.kr
 0.0.0.0 ad.impressbm.co.jp
+0.0.0.0 ad.in.doubleclick.net
 0.0.0.0 ad.incurads.info
 0.0.0.0 ad.indomp3z.us
 0.0.0.0 ad.inetfast.com
@@ -25816,6 +25840,7 @@
 0.0.0.0 ad.ir.ru
 0.0.0.0 ad.isohunt.com
 0.0.0.0 ad.it.chilinext.com
+0.0.0.0 ad.it.doubleclick.net
 0.0.0.0 ad.ittoolbox.com
 0.0.0.0 ad.itweb.co.za
 0.0.0.0 ad.jamba.de
@@ -25832,6 +25857,7 @@
 0.0.0.0 ad.jiemian.com
 0.0.0.0 ad.jmg.com
 0.0.0.0 ad.jokeroo.com
+0.0.0.0 ad.jp.doubleclick.net
 0.0.0.0 ad.jsnbrynb.com
 0.0.0.0 ad.jugem.jp
 0.0.0.0 ad.juksr.com
@@ -25845,6 +25871,7 @@
 0.0.0.0 ad.kisscartoon.es
 0.0.0.0 ad.kisscartoon.io
 0.0.0.0 ad.koreadaily.com
+0.0.0.0 ad.kr.doubleclick.net
 0.0.0.0 ad.land.to
 0.0.0.0 ad.lazynerd.info
 0.0.0.0 ad.lbb.org
@@ -25901,6 +25928,7 @@
 0.0.0.0 ad.mylinea.com
 0.0.0.0 ad.mylook.ee
 0.0.0.0 ad.myrice.com
+0.0.0.0 ad.n2434.doubleclick.net
 0.0.0.0 ad.nachtagenten.de
 0.0.0.0 ad.namba.kg
 0.0.0.0 ad.napigator.com
@@ -25913,6 +25941,8 @@
 0.0.0.0 ad.nifty.com
 0.0.0.0 ad.nikkansports.com
 0.0.0.0 ad.nikkeibp.co.jp
+0.0.0.0 ad.nl.doubleclick.net
+0.0.0.0 ad.no.doubleclick.net
 0.0.0.0 ad.nobreak.com
 0.0.0.0 ad.novasol.com
 0.0.0.0 ad.nozonedata.com
@@ -25920,6 +25950,7 @@
 0.0.0.0 ad.ntv.co.jp
 0.0.0.0 ad.ntvmsnbc.com
 0.0.0.0 ad.nwt.cz
+0.0.0.0 ad.nz.doubleclick.net
 0.0.0.0 ad.obuy.tw
 0.0.0.0 ad.ohmyad.co
 0.0.0.0 ad.ohmynews.com
@@ -25957,6 +25988,7 @@
 0.0.0.0 ad.pixfs.net
 0.0.0.0 ad.pixnet.in
 0.0.0.0 ad.pixnet.net
+0.0.0.0 ad.pl.doubleclick.net
 0.0.0.0 ad.player.baidu.com
 0.0.0.0 ad.playground.ru
 0.0.0.0 ad.policeone.com
@@ -25971,6 +26003,7 @@
 0.0.0.0 ad.profiwin.de
 0.0.0.0 ad.proxy.sh
 0.0.0.0 ad.prv.pl
+0.0.0.0 ad.pt.doubleclick.net
 0.0.0.0 ad.punto-informatico.it
 0.0.0.0 ad.pupsik.ru
 0.0.0.0 ad.putenbrust.net
@@ -26002,7 +26035,10 @@
 0.0.0.0 ad.reyazilim.com
 0.0.0.0 ad.ricevitori-digitali.com
 0.0.0.0 ad.rkads.com
+0.0.0.0 ad.ro.doubleclick.net
+0.0.0.0 ad.rs.doubleclick.net
 0.0.0.0 ad.rtl.hr
+0.0.0.0 ad.ru.doubleclick.net
 0.0.0.0 ad.sa9.woowy.com
 0.0.0.0 ad.sab.woowy.com
 0.0.0.0 ad.sacitaslan.com
@@ -26010,6 +26046,7 @@
 0.0.0.0 ad.samsungadhub.com
 0.0.0.0 ad.sbb.bg
 0.0.0.0 ad.scadnet.com
+0.0.0.0 ad.se.doubleclick.net
 0.0.0.0 ad.seagulltracer.com
 0.0.0.0 ad.search.ch
 0.0.0.0 ad.searchhound.com
@@ -26022,8 +26059,10 @@
 0.0.0.0 ad.setrowid.com
 0.0.0.0 ad.sexyunivers.fr
 0.0.0.0 ad.seznam.cz
+0.0.0.0 ad.sg.doubleclick.net
 0.0.0.0 ad.sgdgjarfpp123.com
 0.0.0.0 ad.showbizz.net
+0.0.0.0 ad.si.doubleclick.net
 0.0.0.0 ad.simgames.net
 0.0.0.0 ad.singletrackworld.com
 0.0.0.0 ad.sinovision.net
@@ -26064,7 +26103,9 @@
 0.0.0.0 ad.telnet.hu
 0.0.0.0 ad.tenderteen.com
 0.0.0.0 ad.terra.com.mx
+0.0.0.0 ad.terra.doubleclick.net
 0.0.0.0 ad.tgdaily.com
+0.0.0.0 ad.th.doubleclick.net
 0.0.0.0 ad.theequalground.info
 0.0.0.0 ad.thehill.com
 0.0.0.0 ad.thepaper.cn
@@ -26089,10 +26130,13 @@
 0.0.0.0 ad.triplemind.com
 0.0.0.0 ad.trwv.net
 0.0.0.0 ad.tv2.no
+0.0.0.0 ad.tw.doubleclick.net
 0.0.0.0 ad.twitchguru.com
 0.0.0.0 ad.ubnm.co.kr
+0.0.0.0 ad.uk.doubleclick.net
 0.0.0.0 ad.unimhk.com
 0.0.0.0 ad.uol.com.br
+0.0.0.0 ad.us.doubleclick.net
 0.0.0.0 ad.usatoday.com
 0.0.0.0 ad.userporn.com
 0.0.0.0 ad.utop.ir
@@ -26154,6 +26198,7 @@
 0.0.0.0 ad.yourmedia.com
 0.0.0.0 ad.youtube.com
 0.0.0.0 ad.yoyo.pl
+0.0.0.0 ad.za.doubleclick.net
 0.0.0.0 ad.zaman.com
 0.0.0.0 ad.zaman.com.tr
 0.0.0.0 ad.zdworks.com
@@ -26218,6 +26263,7 @@
 0.0.0.0 ad2.cooks.com
 0.0.0.0 ad2.darkbb.com
 0.0.0.0 ad2.dmpi.net
+0.0.0.0 ad2.doubleclick.net
 0.0.0.0 ad2.firehousezone.com
 0.0.0.0 ad2.firestorage.jp
 0.0.0.0 ad2.fivecdm.com
@@ -26404,6 +26450,7 @@
 0.0.0.0 adclick.dig-online.de
 0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 adclick.g.doubleclick.ne
+0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adclick.gamespy.com
 0.0.0.0 adclick.stuff.co.nz
 0.0.0.0 adclick.stuff.co.nz #Stuff
@@ -27242,6 +27289,7 @@
 0.0.0.0 ads.catholic.org
 0.0.0.0 ads.cavello.com
 0.0.0.0 ads.cbc.ca
+0.0.0.0 ads.cc-dt.com
 0.0.0.0 ads.cdfreaks.com
 0.0.0.0 ads.cdn.rovio.com
 0.0.0.0 ads.cdnow.com
@@ -30268,6 +30316,7 @@
 0.0.0.0 affiliate-program.amazon.com
 0.0.0.0 affiliate-window.com #Digital Window
 0.0.0.0 affiliate.1800flowers.com
+0.0.0.0 affiliate.2mdn.net
 0.0.0.0 affiliate.365adsolutions.com
 0.0.0.0 affiliate.ab1trk.com
 0.0.0.0 affiliate.abctrcker.com
@@ -35153,6 +35202,7 @@
 0.0.0.0 charlizetheron.1stok.com
 0.0.0.0 charmsavings-production.s3.amazonaws.com
 0.0.0.0 chart.advinion.com
+0.0.0.0 chart.apis.google.com
 0.0.0.0 chart.dk
 0.0.0.0 chartaca.com
 0.0.0.0 chartaca.com.s3.amazonaws.com
@@ -35629,6 +35679,11 @@
 0.0.0.0 clicks4ads.com
 0.0.0.0 clicksagent.com
 0.0.0.0 clicksen.se
+0.0.0.0 clickserve.cc-dt.com
+0.0.0.0 clickserve.dartsearch.net
+0.0.0.0 clickserve.eu.dartsearch.net
+0.0.0.0 clickserve.uk.dartsearch.net
+0.0.0.0 clickserve.us2.dartsearch.net
 0.0.0.0 clicksgear.com #AdMeasures
 0.0.0.0 clickshift.com
 0.0.0.0 clickshift.com #WebTrends
@@ -36335,6 +36390,7 @@
 0.0.0.0 controledeaesso.esy.es
 0.0.0.0 controlroom.netmining.com
 0.0.0.0 convergetrack.com
+0.0.0.0 conversion-pixel.invitemedia.com
 0.0.0.0 conversion.adpro.cn
 0.0.0.0 conversion.buddymedia.com
 0.0.0.0 conversionfly.com
@@ -36868,6 +36924,7 @@
 0.0.0.0 creative.admtpmp127.com
 0.0.0.0 creative.ak.facebook.com
 0.0.0.0 creative.ak.fbcdn.net
+0.0.0.0 creative.cc-dt.com
 0.0.0.0 creative.digitaltargetmarketing.com
 0.0.0.0 creative.jdkic.com
 0.0.0.0 creative.ltheanine.cn
@@ -36876,6 +36933,7 @@
 0.0.0.0 creativecdn.com
 0.0.0.0 creativelibrary.org #AppNexus Inc
 0.0.0.0 creatives.cliphunter.com
+0.0.0.0 creatives.doubleclick.net
 0.0.0.0 creatives.ftchinese.com
 0.0.0.0 creatives.inmotionhosting.com
 0.0.0.0 creatives.pichunter.com
@@ -38588,6 +38646,7 @@
 0.0.0.0 dfkl303482uuj-khb747bjg324yuihuj34o-sduj3.bvokiretamuskas.in
 0.0.0.0 dflsdkop3j-khb747bjg324yuks.loverol.in
 0.0.0.0 dfmk456049-khb747bjg324yu8.kiav-boots.in
+0.0.0.0 dfp.doubleclick.net
 0.0.0.0 dfp.suning.com
 0.0.0.0 dfrs12kz9qye2.cloudfront.net
 0.0.0.0 dfsdf.desio-web.co.at
@@ -39040,6 +39099,7 @@
 0.0.0.0 dotmetrics.net
 0.0.0.0 dotnet.endai.com
 0.0.0.0 dotomi.com
+0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.ctfile.com
 0.0.0.0 doubleclick.d4p.net
 0.0.0.0 doubleclick.ne.jp
@@ -40835,6 +40895,7 @@
 0.0.0.0 feed.theta.sogou.com
 0.0.0.0 feed.trafflow.com
 0.0.0.0 feed.yoodeal.net
+0.0.0.0 feedads.g.doubleclick.net
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 feedback.whalecloud.com
@@ -41121,6 +41182,9 @@
 0.0.0.0 fls-fe.amazon.co.jp
 0.0.0.0 fls-na.amazon.ca
 0.0.0.0 fls-na.amazon.com
+0.0.0.0 fls.au.doubleclick.net
+0.0.0.0 fls.doubleclick.net
+0.0.0.0 fls.uk.doubleclick.net
 0.0.0.0 flu.secureintl.com
 0.0.0.0 fluctuo.com
 0.0.0.0 fluencymedia.com
@@ -41796,6 +41860,7 @@
 0.0.0.0 gamestop.survey.marketforce.com
 0.0.0.0 gamevalue7.weebly.com
 0.0.0.0 gamned.com
+0.0.0.0 gan.doubleclick.net
 0.0.0.0 gan.ptjwz.com
 0.0.0.0 gan.wavecdn.net
 0.0.0.0 ganaar.gertibaldi.com
@@ -42397,6 +42462,7 @@
 0.0.0.0 google.tucows.com
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleadservices.com
 0.0.0.0 googlecentreservices.rockhillrealtytx.com
@@ -43201,6 +43267,7 @@
 0.0.0.0 host.succeedcoller.com
 0.0.0.0 host1.swenabler.com
 0.0.0.0 host207.ewtn.com
+0.0.0.0 host3.adhese.be
 0.0.0.0 hoste.octopis.com
 0.0.0.0 hosted.adback.co
 0.0.0.0 hosted.stats.com
@@ -44610,6 +44677,7 @@
 0.0.0.0 iqfp1.com
 0.0.0.0 iqj-registry-l.100webspace.net
 0.0.0.0 iqs.biz.ua
+0.0.0.0 ir.doubleclick.net
 0.0.0.0 ir.mail.163.com
 0.0.0.0 ir0.mobify.com
 0.0.0.0 ir2.beap.gemini.yahoo.com
@@ -44701,6 +44769,7 @@
 0.0.0.0 iu54ere.for-more.biz
 0.0.0.0 iuiewhj-khb747bjg324yu-sduj.askiwmvno43.in
 0.0.0.0 iutr.uozwys.top
+0.0.0.0 iv.doubleclick.net
 0.0.0.0 ivansaru.418.com1.ru
 0.0.0.0 ivcbrasil.org.br
 0.0.0.0 ivelin.ushapeit.bg
@@ -46400,6 +46469,7 @@
 0.0.0.0 log2.adop.cc
 0.0.0.0 log2.air.yoyi.com.cn
 0.0.0.0 log2.molitv.cn
+0.0.0.0 log2.quintelligence.com
 0.0.0.0 log4.quintelligence.com
 0.0.0.0 log999.goo.ne.jp
 0.0.0.0 logaholic.com
@@ -46774,6 +46844,7 @@
 0.0.0.0 m.czxhgc.com
 0.0.0.0 m.data.mob.com
 0.0.0.0 m.doodlemobile.com
+0.0.0.0 m.doubleclick.net
 0.0.0.0 m.exactag.com
 0.0.0.0 m.facebook.alia-musica.org
 0.0.0.0 m.facebook.com-----------------------------securelogin-----viewaccount.javatechnologycenter.com
@@ -46875,6 +46946,7 @@
 0.0.0.0 m.tstore.co.kr
 0.0.0.0 m.uerzyr.cn
 0.0.0.0 m.usersonline.com
+0.0.0.0 m.v.fwmrm.net
 0.0.0.0 m.verpt.com
 0.0.0.0 m.wankz.com
 0.0.0.0 m.wooboo.com.cn
@@ -46896,6 +46968,7 @@
 0.0.0.0 m.zzczfreewifi.com
 0.0.0.0 m.zzxbn.com
 0.0.0.0 m0-s.san.ru
+0.0.0.0 m1.2mdn.net
 0.0.0.0 m1.daumcdn.net
 0.0.0.0 m1.vodjk.com
 0.0.0.0 m1.webstats.motigo.com
@@ -57178,6 +57251,8 @@
 0.0.0.0 mostanude.890m.com
 0.0.0.0 motdgd.com #MOTDgd
 0.0.0.0 moter.communecapital.com
+0.0.0.0 motifcdn.doubleclick.net
+0.0.0.0 motifcdn2.doubleclick.net
 0.0.0.0 motiv.mariettatkd.com
 0.0.0.0 motivationbest.000webhostapp.com
 0.0.0.0 motor.austinjaw.com
@@ -57561,6 +57636,10 @@
 0.0.0.0 n121adserv.com #Advertising Unknown
 0.0.0.0 n158adserv.com #Advertising Unknown
 0.0.0.0 n339.asp-cc.com
+0.0.0.0 n4052ad.doubleclick.net
+0.0.0.0 n4061ad.hk.doubleclick.net
+0.0.0.0 n4403ad.doubleclick.net
+0.0.0.0 n479ad.doubleclick.net
 0.0.0.0 n4cnx1.wm.warmglow.org
 0.0.0.0 n4p.ru.redtram.com
 0.0.0.0 n4p.ua.redtram.com
@@ -59961,6 +60040,7 @@
 0.0.0.0 paypall-service.trendinghuman.com
 0.0.0.0 paypalmegiuseppe.altervista.org
 0.0.0.0 paypalsecure-2016.sucurecode524154241.arita.ac.tz
+0.0.0.0 paypalssl.doubleclick.net
 0.0.0.0 paypel-com.totalh.net
 0.0.0.0 paypel.limited.account.bravocolombia.com
 0.0.0.0 payperclickadvertising.org.uk
@@ -62590,6 +62670,8 @@
 0.0.0.0 rmaiauth.ads.vip.bf1.yahoo.com
 0.0.0.0 rmapup.real.com
 0.0.0.0 rmbannerserver.agestado.com.br
+0.0.0.0 rmcdn.2mdn.net
+0.0.0.0 rmcdn.f.2mdn.net
 0.0.0.0 rmedia.adonnetwork.com
 0.0.0.0 rmedia.boston.com
 0.0.0.0 rmms.net.au
@@ -63032,6 +63114,7 @@
 0.0.0.0 s1.tansuotv.com
 0.0.0.0 s1.teknum.com
 0.0.0.0 s1.ykgqs.com
+0.0.0.0 s1.youtube.com
 0.0.0.0 s11clickmoviedownloadercom-maynemyltf.netdna-ssl.com
 0.0.0.0 s11clickmoviedownloadercom.maynemyltf.netdna-cdn.com
 0.0.0.0 s12an3.boss.northerndishedends.uk
@@ -63051,6 +63134,7 @@
 0.0.0.0 s2.kuaibaopay.com
 0.0.0.0 s2.rotaban.ru
 0.0.0.0 s2.socialannex.com
+0.0.0.0 s2.video.doubleclick.net
 0.0.0.0 s2.yandui.com
 0.0.0.0 s2.youtube.com
 0.0.0.0 s2.zdface.com
@@ -63231,6 +63315,7 @@
 0.0.0.0 sas15k01.com #Lead Forensics
 0.0.0.0 sascdn.com #Smart Ad Server
 0.0.0.0 saso.5gbfree.com
+0.0.0.0 sassets.vevo.com
 0.0.0.0 sat.sanoma.fi
 0.0.0.0 sat.scoutanalytics.com
 0.0.0.0 save.georgiatkd.com
@@ -66271,6 +66356,7 @@
 0.0.0.0 survey-poll.com #ComScore
 0.0.0.0 survey.china.alibaba.com
 0.0.0.0 survey.com-annualsurvey.info
+0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 survey.interquest.com
 0.0.0.0 survey.monitor.cz
 0.0.0.0 survey.proactive.nl
@@ -69697,6 +69783,7 @@
 0.0.0.0 videe.tv #Videe
 0.0.0.0 vidego.multicastmedia.com
 0.0.0.0 video-ad-stats.googlesyndication.com
+0.0.0.0 video-stats.l.google.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 video.bangladeshinfo.com
 0.0.0.0 video.buzzintersection.com
@@ -71791,6 +71878,7 @@
 0.0.0.0 www.dcsoftware.bannerless.com
 0.0.0.0 www.dcw.1592878.com
 0.0.0.0 www.ddlone.com
+0.0.0.0 www.destinationurl.com
 0.0.0.0 www.dgfggy.com
 0.0.0.0 www.dia-traffic.com
 0.0.0.0 www.diabloarmory.com
@@ -71838,7 +71926,9 @@
 0.0.0.0 www.donneuropa.it
 0.0.0.0 www.doodream.com
 0.0.0.0 www.doris-imhoff.us
+0.0.0.0 www.doubleclick.com
 0.0.0.0 www.doubleclick.ne.jp
+0.0.0.0 www.doubleclick.net
 0.0.0.0 www.doublelvisions.com
 0.0.0.0 www.doudouguo.com
 0.0.0.0 www.doumob.com
@@ -73679,6 +73769,7 @@
 0.0.0.0 www2.dealtime.com
 0.0.0.0 www2.delta-search.com
 0.0.0.0 www2.discount-pharmacy-online-e.com
+0.0.0.0 www2.doubleclick.com
 0.0.0.0 www2.kampanyatakip.net
 0.0.0.0 www2.kiehls.com
 0.0.0.0 www2.mawords.com
@@ -73697,6 +73788,8 @@
 0.0.0.0 www3.bloomingdales.com
 0.0.0.0 www3.ddns.ms
 0.0.0.0 www3.delta-search.com
+0.0.0.0 www3.doubleclick.com
+0.0.0.0 www3.doubleclick.net
 0.0.0.0 www3.exn.net
 0.0.0.0 www3.haberturk.com
 0.0.0.0 www3.ihaberadserver.com
