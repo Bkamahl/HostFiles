@@ -6,10 +6,12 @@
 127.0.0.1 home
 127.0.0.1 hsd1.az.comcast.net
 127.0.0.1 hsd1.az.comcast.net.
+127.0.0.1 local
 127.0.0.1 localhost
 127.0.0.1 localhost.home
 127.0.0.1 localhost.localdomain
 127.0.0.1 test
+255.255.255.255	broadcasthost
 ::1 ip6-localhost
 ::1 localhost
 
