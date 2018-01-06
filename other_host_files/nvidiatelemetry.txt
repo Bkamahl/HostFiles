@@ -1,0 +1,5 @@
+# 1/6/18
+
+0.0.0.0 gfe.nvidia.com
+0.0.0.0 gfswl.geforce.com
+0.0.0.0 telemetry.nvidia.com
