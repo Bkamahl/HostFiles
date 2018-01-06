@@ -25447,6 +25447,7 @@
 0.0.0.0 action.logger.baofeng.com
 0.0.0.0 actionallocator.com
 0.0.0.0 activation-disabled-helps.16mb.com
+0.0.0.0 activation.acronis.com
 0.0.0.0 active-agent.com #Active Agent
 0.0.0.0 active-agent.net #Active Agent
 0.0.0.0 active-tracking.de
