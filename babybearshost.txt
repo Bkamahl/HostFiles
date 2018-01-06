@@ -1,5 +1,5 @@
 # BabyBear's Host File
-# Last Updated 1/6/18
+# Updated 1/6/18
 
 # Whitelist
 127.0.0.1 android
