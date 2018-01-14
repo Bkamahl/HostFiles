@@ -1,5 +1,5 @@
 # BabyBear's Host File
-# Updated 1/13/18
+# Updated 1/14/18
 
 # Whitelist
 127.0.0.1 android
@@ -21226,6 +21226,7 @@
 0.0.0.0 epidm.edgesuite.net
 0.0.0.0 epilot.com
 0.0.0.0 epiodata.com
+0.0.0.0 epiphanyai.com
 0.0.0.0 epitrack.com
 0.0.0.0 epl.paypal-communication.com
 0.0.0.0 eplayer.clipsyndicate.com
@@ -27810,7 +27811,9 @@
 0.0.0.0 isaac-mafi.persiangig.com
 0.0.0.0 isamuxpompapsc50.6ka.info
 0.0.0.0 isapiad.weatherbug.com
+0.0.0.0 isatap.home
 0.0.0.0 isearch.shopathome.com
+0.0.0.0 iserveads.com
 0.0.0.0 isettatech.com
 0.0.0.0 isg01.casalemedia.com
 0.0.0.0 ishare.metric.rediff.com
@@ -46049,6 +46052,7 @@
 0.0.0.0 plat.myrainharvestingsupplies.com
 0.0.0.0 plater-emilii.naszebanki.pl
 0.0.0.0 platform.communicatorcorp.com
+0.0.0.0 platform.epiphanyai.com
 0.0.0.0 platform.linkedin.com
 0.0.0.0 platform.loyaltylion.com
 0.0.0.0 platform.revenuestreet.com
@@ -54170,6 +54174,7 @@
 0.0.0.0 swswfwsf.beckmenlaw.net
 0.0.0.0 swwsbk.greatriverohio.net
 0.0.0.0 swwsg.mylifemirror.com
+0.0.0.0 sx.iserveads.com
 0.0.0.0 sx.mobsweet.mobi
 0.0.0.0 sx.nazari.org
 0.0.0.0 sx.trhnt.com
@@ -60323,6 +60328,7 @@
 0.0.0.0 wp3r75.japan.katsujinkendojo.co.uk
 0.0.0.0 wpa.qq.com
 0.0.0.0 wpa.qq.com #QQ
+0.0.0.0 wpad.home
 0.0.0.0 wpc.32df9.rhocdn.net
 0.0.0.0 wpdigital.net #Washington Post
 0.0.0.0 wpdstat.com
@@ -64069,6 +64075,7 @@
 0.0.0.0 www.irondating.ru
 0.0.0.0 www.is.gd
 0.0.0.0 www.is1.clixgalore.com
+0.0.0.0 www.iserveads.com
 0.0.0.0 www.isettatech.com
 0.0.0.0 www.isfilebest.com
 0.0.0.0 www.isikpandizot.com
