@@ -1,5 +1,5 @@
 # BabyBear's Host File
-# Updated 1/14/18
+# Updated 1/21/18
 
 # Whitelist
 127.0.0.1 android
@@ -60328,6 +60328,7 @@
 0.0.0.0 wp3r75.japan.katsujinkendojo.co.uk
 0.0.0.0 wpa.qq.com
 0.0.0.0 wpa.qq.com #QQ
+0.0.0.0 wpad
 0.0.0.0 wpad.home
 0.0.0.0 wpc.32df9.rhocdn.net
 0.0.0.0 wpdigital.net #Washington Post
