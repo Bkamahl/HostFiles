@@ -381,6 +381,7 @@
 0.0.0.0 connect.facebook.net
 0.0.0.0 connect.facebook.net.edgekey.net
 0.0.0.0 corp.facebook.com
+0.0.0.0 creative.ak.fbcdn.net
 0.0.0.0 creativeupload-sf2p.facebook.com
 0.0.0.0 ct-m-fbx.fbsbx.com
 0.0.0.0 d.facebook.com
@@ -695,6 +696,7 @@
 0.0.0.0 fb.me
 0.0.0.0 fb.net
 0.0.0.0 fbapps-sf2p.facebook.com
+0.0.0.0 fbcdn-creative-a.akamaihd.net
 0.0.0.0 fbcdn-photos-a.akamaihd.net
 0.0.0.0 fbcdn-photos-e-a.akamaihd.net
 0.0.0.0 fbcdn-profile-a.akamaihd.net
@@ -849,6 +851,7 @@
 0.0.0.0 messenger.com
 0.0.0.0 mirror.facebook.com
 0.0.0.0 mmm.facebook.com
+0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 mqtt.c10r.facebook.com
 0.0.0.0 mqtt.facebook.com
 0.0.0.0 mqtt.vvv.facebook.com
