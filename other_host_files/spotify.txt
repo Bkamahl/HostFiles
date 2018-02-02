@@ -73,3 +73,7 @@
 0.0.0.0 v.jwpcdn.com
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 weblb-wg.gslb.spotify.com
+0.0.0.0 www.audio2.spotify.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 www.googletagservices.com
+0.0.0.0 www.omaze.com
