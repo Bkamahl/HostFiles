@@ -1,7 +1,10 @@
 # All Doubleclick domains as far as I know
-# At least of 1/30/18
+# At least of 2/14/18
 
+0.0.0.0 2mdn.net
 0.0.0.0 3ad.doubleclick.net
+0.0.0.0 accounts.doubleclick.com
+0.0.0.0 accounts.doubleclick.net
 0.0.0.0 ad-apac.doubleclick.net
 0.0.0.0 ad-emea.doubleclick.net
 0.0.0.0 ad-g.doubleclick.net
@@ -129,11 +132,13 @@
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 host3.adhese.be
 0.0.0.0 ir.doubleclick.net
+0.0.0.0 iv.doubleclick.com
 0.0.0.0 iv.doubleclick.net
 0.0.0.0 ln.doubleclick.net
 0.0.0.0 log2.quintelligence.com
 0.0.0.0 m.2mdn.net
 0.0.0.0 m.de.2mdn.net
+0.0.0.0 m.doubleclick.com
 0.0.0.0 m.doubleclick.net
 0.0.0.0 m1.2mdn.net
 0.0.0.0 m1.ae.2mdn.net
@@ -346,6 +351,7 @@
 0.0.0.0 m9.za.2mdn.net
 0.0.0.0 mcmads.mediacapital.pt
 0.0.0.0 motifcdn.doubleclick.net
+0.0.0.0 motifcdn2.doubleclick.com
 0.0.0.0 motifcdn2.doubleclick.net
 0.0.0.0 n3302ad.doubleclick.net
 0.0.0.0 n3349ad.doubleclick.net
@@ -360,14 +366,25 @@
 0.0.0.0 ns3.doubleclick.net
 0.0.0.0 ns4.doubleclick.net
 0.0.0.0 optimize.doubleclick.net
+0.0.0.0 origin.2mdn.net
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 paypalssl.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 r1---sn-5uaeznlz.c.2mdn.net
 0.0.0.0 rd.intl.doubleclick.net
+0.0.0.0 redirector.c.2mdn.net
+0.0.0.0 reports.doubleclick.com
+0.0.0.0 reports.doubleclick.net
 0.0.0.0 rmcdn.2mdn.net
 0.0.0.0 rmcdn.f.2mdn.net
+0.0.0.0 s0.2mdn.net
+0.0.0.0 s1.2mdn.net
 0.0.0.0 s2.video.doubleclick.net
+0.0.0.0 search.doubleclick.com
+0.0.0.0 search.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 static.2mdn.net
+0.0.0.0 static.doubleclick.com
 0.0.0.0 static.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 survey.g.doubleclick.net
@@ -384,6 +401,7 @@
 0.0.0.0 www.doubleclickbygoogle.com
 0.0.0.0 www.ukrpts.net
 0.0.0.0 www2.doubleclick.com
+0.0.0.0 www2.doubleclick.net
 0.0.0.0 www3.doubleclick.com
 0.0.0.0 www3.doubleclick.net
 0.0.0.0 www3.webhostingtalk.com
