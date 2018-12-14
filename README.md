@@ -12,3 +12,5 @@ Don't expect a Anti Windows Telemetry from me, if you want one use CrazyMax's Ho
 https://github.com/crazy-max/WindowsSpyBlocker
 
 :D
+
+Currently can't work on this project, situations in life, I will work on it as soon as I possibly can. Which should be around 2 maybe 3 months from 12/14/18 :) sorry for the inconvenience.
