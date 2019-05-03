@@ -1,0 +1,8 @@
+0.0.0.0 baidu.com
+0.0.0.0 bdstatic.com
+0.0.0.0 hm.baidu.com
+0.0.0.0 i05h.cn
+0.0.0.0 m.i05h.cn
+0.0.0.0 m.s52dv.com
+0.0.0.0 s52dv.com
+0.0.0.0 zz.bdstatic.com
