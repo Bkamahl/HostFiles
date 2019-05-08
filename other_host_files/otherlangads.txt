@@ -3,6 +3,7 @@
 0.0.0.0 c.mipcdn.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 i05h.cn
+0.0.0.0 imgs.wangketuan.com
 0.0.0.0 jc9388.com
 0.0.0.0 le78p.cn
 0.0.0.0 m.i05h.cn
@@ -12,4 +13,5 @@
 0.0.0.0 mipcache.bdstatic.com
 0.0.0.0 mipcdn.com
 0.0.0.0 s52dv.com
+0.0.0.0 wangketuan.com
 0.0.0.0 zz.bdstatic.com
