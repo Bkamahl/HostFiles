@@ -7,6 +7,8 @@
 0.0.0.0 m.i05h.cn
 0.0.0.0 m.le78p.cn
 0.0.0.0 m.s52dv.com
+0.0.0.0 pic.poklytk.com
+0.0.0.0 poklytk.com
 0.0.0.0 s52dv.com
 0.0.0.0 wangketuan.com
 0.0.0.0 zz.bdstatic.com
