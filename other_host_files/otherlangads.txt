@@ -1,4 +1,5 @@
 0.0.0.0 0730tou.cn
+0.0.0.0 19z2e.cn
 0.0.0.0 4aa.7q9e9skk3.com
 0.0.0.0 7q9e9skk3.com
 0.0.0.0 96625m.com
@@ -12,6 +13,7 @@
 0.0.0.0 imgs.wangketuan.com
 0.0.0.0 jiankangzhija.com
 0.0.0.0 le78p.cn
+0.0.0.0 m.19z2e.cn
 0.0.0.0 m.fyq123.com
 0.0.0.0 m.gglpqn.cn
 0.0.0.0 m.i05h.cn
