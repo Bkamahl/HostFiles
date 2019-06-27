@@ -6,6 +6,7 @@
 0.0.0.0 baidu.com
 0.0.0.0 bdstatic.com
 0.0.0.0 daocaorenshuwu.com
+0.0.0.0 fjiej.com
 0.0.0.0 fyq123.com
 0.0.0.0 gglpqn.cn
 0.0.0.0 hm.baidu.com
@@ -14,6 +15,7 @@
 0.0.0.0 jiankangzhija.com
 0.0.0.0 le78p.cn
 0.0.0.0 m.19z2e.cn
+0.0.0.0 m.fjiej.com
 0.0.0.0 m.fyq123.com
 0.0.0.0 m.gglpqn.cn
 0.0.0.0 m.i05h.cn
