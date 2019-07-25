@@ -38,3 +38,5 @@
 0.0.0.0 zz.bdstatic.com
 0.0.0.0 m.vkjnd.com
 0.0.0.0 vkjnd.com
+0.0.0.0 m.q671e.cn
+0.0.0.0 q671e.cn
