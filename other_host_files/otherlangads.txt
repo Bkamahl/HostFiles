@@ -36,3 +36,5 @@
 0.0.0.0 www.96625m.com
 0.0.0.0 www.daocaorenshuwu.com
 0.0.0.0 zz.bdstatic.com
+0.0.0.0 m.vkjnd.com
+0.0.0.0 vkjnd.com
