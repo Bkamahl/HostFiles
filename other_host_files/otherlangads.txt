@@ -40,3 +40,5 @@
 0.0.0.0 vkjnd.com
 0.0.0.0 m.q671e.cn
 0.0.0.0 q671e.cn
+0.0.0.0 e.vkjnd.com
+0.0.0.0 vkjnd.com
