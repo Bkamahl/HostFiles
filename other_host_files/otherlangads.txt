@@ -27,6 +27,7 @@
 0.0.0.0 m.lelejoy.top
 0.0.0.0 m.q671e.cn
 0.0.0.0 m.s52dv.com
+0.0.0.0 m.tingniubi.cn
 0.0.0.0 m.v5oj7h.cn
 0.0.0.0 m.vkjnd.com
 0.0.0.0 m.w5xj9.cn
@@ -38,6 +39,7 @@
 0.0.0.0 q671e.cn
 0.0.0.0 qhdshuidi.com
 0.0.0.0 s52dv.com
+0.0.0.0 tingniubi.cn
 0.0.0.0 v5oj7h.cn
 0.0.0.0 vkjnd.com
 0.0.0.0 w5xj9.cn
