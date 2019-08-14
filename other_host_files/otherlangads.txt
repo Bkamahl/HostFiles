@@ -31,6 +31,7 @@
 0.0.0.0 m.v5oj7h.cn
 0.0.0.0 m.vkjnd.com
 0.0.0.0 m.w5xj9.cn
+0.0.0.0 m.yanxiannw.cn
 0.0.0.0 mob10.qhdshuidi.com
 0.0.0.0 niu01.jiankangzhija.com
 0.0.0.0 photo.0730tou.cn
@@ -46,4 +47,5 @@
 0.0.0.0 wangketuan.com
 0.0.0.0 www.96625m.com
 0.0.0.0 www.daocaorenshuwu.com
+0.0.0.0 yanxiannw.cn
 0.0.0.0 zz.bdstatic.com
