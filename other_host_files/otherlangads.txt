@@ -11,6 +11,7 @@
 0.0.0.0 fjiej.com
 0.0.0.0 fyq123.com
 0.0.0.0 gglpqn.cn
+0.0.0.0 hjk.sygjls.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 i05h.cn
 0.0.0.0 imgs.wangketuan.com
@@ -41,6 +42,7 @@
 0.0.0.0 q671e.cn
 0.0.0.0 qhdshuidi.com
 0.0.0.0 s52dv.com
+0.0.0.0 sygjls.com
 0.0.0.0 tingniubi.cn
 0.0.0.0 v5oj7h.cn
 0.0.0.0 vkjnd.com
