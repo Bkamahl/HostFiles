@@ -65,3 +65,9 @@
 0.0.0.0 yekuailai.cn
 0.0.0.0 zxc.ordidc.com
 0.0.0.0 zz.bdstatic.com
+0.0.0.0 m.ipeqc.cn
+0.0.0.0 ipeqc.cn
+0.0.0.0 6dtds6.com
+0.0.0.0 tg.6dtds6.com
+0.0.0.0 rrrji.fun
+0.0.0.0 s2.rrrji.fun
