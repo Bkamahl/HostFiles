@@ -9,9 +9,11 @@
 0.0.0.0 baidu.com
 0.0.0.0 bdstatic.com
 0.0.0.0 daocaorenshuwu.com
+0.0.0.0 e.g71i1.cn
 0.0.0.0 e.vkjnd.com
 0.0.0.0 fjiej.com
 0.0.0.0 fyq123.com
+0.0.0.0 g.g71i1.cn
 0.0.0.0 g71i1.cn
 0.0.0.0 gglpqn.cn
 0.0.0.0 hjk.sygjls.com
