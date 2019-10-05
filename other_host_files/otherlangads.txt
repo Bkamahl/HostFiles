@@ -12,6 +12,7 @@
 0.0.0.0 e.vkjnd.com
 0.0.0.0 fjiej.com
 0.0.0.0 fyq123.com
+0.0.0.0 g71i1.cn
 0.0.0.0 gglpqn.cn
 0.0.0.0 hjk.sygjls.com
 0.0.0.0 hm.baidu.com
@@ -28,6 +29,7 @@
 0.0.0.0 m.aitaotehui.cn
 0.0.0.0 m.fjiej.com
 0.0.0.0 m.fyq123.com
+0.0.0.0 m.g71i1.cn
 0.0.0.0 m.gglpqn.cn
 0.0.0.0 m.i05h.cn
 0.0.0.0 m.ipeqc.cn
