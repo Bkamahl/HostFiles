@@ -1,6 +1,7 @@
 0.0.0.0 0730tou.cn
 0.0.0.0 178pu.cn
 0.0.0.0 19z2e.cn
+0.0.0.0 2hqd0b.cn
 0.0.0.0 4aa.7q9e9skk3.com
 0.0.0.0 6dtds6.com
 0.0.0.0 7q9e9skk3.com
@@ -9,6 +10,7 @@
 0.0.0.0 baidu.com
 0.0.0.0 bdstatic.com
 0.0.0.0 daocaorenshuwu.com
+0.0.0.0 e.2hqd0b.cn
 0.0.0.0 e.g71i1.cn
 0.0.0.0 e.vkjnd.com
 0.0.0.0 fjiej.com
@@ -28,6 +30,7 @@
 0.0.0.0 liebaonet.cn
 0.0.0.0 m.178pu.cn
 0.0.0.0 m.19z2e.cn
+0.0.0.0 m.2hqd0b.cn
 0.0.0.0 m.aitaotehui.cn
 0.0.0.0 m.fjiej.com
 0.0.0.0 m.fyq123.com
