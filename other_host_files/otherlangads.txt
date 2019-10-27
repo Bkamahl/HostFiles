@@ -10,9 +10,11 @@
 0.0.0.0 aitaotehui.cn
 0.0.0.0 baidu.com
 0.0.0.0 bdstatic.com
+0.0.0.0 brpyyj.cn
 0.0.0.0 daocaorenshuwu.com
 0.0.0.0 e.2hqd0b.cn
 0.0.0.0 e.860x48.cn
+0.0.0.0 e.brpyyj.cn
 0.0.0.0 e.g71i1.cn
 0.0.0.0 e.vkjnd.com
 0.0.0.0 fjiej.com
@@ -35,6 +37,7 @@
 0.0.0.0 m.2hqd0b.cn
 0.0.0.0 m.860x48.cn
 0.0.0.0 m.aitaotehui.cn
+0.0.0.0 m.brpyyj.cn
 0.0.0.0 m.fjiej.com
 0.0.0.0 m.fyq123.com
 0.0.0.0 m.g71i1.cn
@@ -53,8 +56,11 @@
 0.0.0.0 m.vkjnd.com
 0.0.0.0 m.w5xj9.cn
 0.0.0.0 m.xiajuncun.cn
+0.0.0.0 m.y034b.cn
 0.0.0.0 m.yanxiannw.cn
 0.0.0.0 m.yekuailai.cn
+0.0.0.0 m.ygblogtag.cn
+0.0.0.0 m.yo34b.cn
 0.0.0.0 mob10.qhdshuidi.com
 0.0.0.0 mzjzx.top
 0.0.0.0 niu01.jiankangzhija.com
@@ -77,7 +83,10 @@
 0.0.0.0 www.96625m.com
 0.0.0.0 www.daocaorenshuwu.com
 0.0.0.0 xiajuncun.cn
+0.0.0.0 y034b.cn
 0.0.0.0 yanxiannw.cn
 0.0.0.0 yekuailai.cn
+0.0.0.0 ygblogtag.cn
+0.0.0.0 yo34b.cn
 0.0.0.0 zxc.ordidc.com
 0.0.0.0 zz.bdstatic.com
