@@ -13,6 +13,7 @@
 0.0.0.0 bdstatic.com
 0.0.0.0 brpyyj.cn
 0.0.0.0 daocaorenshuwu.com
+0.0.0.0 dl.jihxiang.com
 0.0.0.0 e.2hqd0b.cn
 0.0.0.0 e.860x48.cn
 0.0.0.0 e.brpyyj.cn
@@ -22,6 +23,7 @@
 0.0.0.0 fyq123.com
 0.0.0.0 g.g71i1.cn
 0.0.0.0 g71i1.cn
+0.0.0.0 gaappuf.cn
 0.0.0.0 gglpqn.cn
 0.0.0.0 hjk.sygjls.com
 0.0.0.0 hm.baidu.com
@@ -29,6 +31,7 @@
 0.0.0.0 imgs.wangketuan.com
 0.0.0.0 ipeqc.cn
 0.0.0.0 jiankangzhija.com
+0.0.0.0 jihxiang.com
 0.0.0.0 le78p.cn
 0.0.0.0 leeweizs.cn
 0.0.0.0 lelejoy.top
@@ -43,6 +46,7 @@
 0.0.0.0 m.fjiej.com
 0.0.0.0 m.fyq123.com
 0.0.0.0 m.g71i1.cn
+0.0.0.0 m.gaappuficn
 0.0.0.0 m.gglpqn.cn
 0.0.0.0 m.i05h.cn
 0.0.0.0 m.ipeqc.cn
